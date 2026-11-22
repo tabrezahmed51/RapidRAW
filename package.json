@@ -56,14 +56,14 @@
     "@types/react-dom": "^19.2.4",
     "@vitejs/plugin-react": "^6.1.0",
     "esbuild": "^0.28.2",
-    "eslint": "^10.9.0",
+    "eslint": "^10.15.0",
     "eslint-plugin-i18next": "^6.1.5",
-    "i18next-cli": "^1.71.0",
+    "i18next-cli": "^1.93.1",
     "prettier": "^3.9.6",
     "tailwindcss": "^4.3.3",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.67.0",
-    "vite": "^8.2.2"
+    "typescript-eslint": "^8.73.0",
+    "vite": "^8.3.8"
   },
   "allowScripts": {
     "@swc/core@1.16.1": true,
